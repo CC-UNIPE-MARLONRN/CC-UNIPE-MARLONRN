@@ -34,8 +34,11 @@
 <img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
 
 <img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
 
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+          
 <br>
 <br>
 <br>

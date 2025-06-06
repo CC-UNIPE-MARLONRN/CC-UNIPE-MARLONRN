@@ -56,9 +56,7 @@
           
 <img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
 <div align="center">
  

@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=NaN69be&size=35&center=true&vCenter=true&width=1000&lines=HELLO+GUYS,+I'm+MarlonRN1610,+;I'm+a+computer+science+student+at+UNIPÊ+;I'm+from+Brazil;+and+this+is+my+github;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CC-UNIPE-MARLONRN&show_icons=true&count_private=true&hide_border=true&title_color=NaN96bc&icon_color=NaN96bc&text_color=c9d1d9&bg_color=0d1117" alt="MarlonRN1610 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CC-UNIPE-MARLONRN&layout=compact&hide_border=true&title_color=NaN96bc&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CC-UNIPE-MARLONRN&layout=compact&hide_border=true&title_color=NaN96bc&text_color=c9d1d9&bg_color=0d1117" alt="MarlonRN1610 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CC-UNIPE-MARLONRN&layout=compact&hide_border=true&title_color=NaN96bc&text_color=c9d1d9&bg_color=0d1117" alt="MarlonRN1610 github stats" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CC-UNIPE-MARLONRN&bg_color=0d1117&color=99aabb&line=99aabb&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -45,24 +45,27 @@
 <br> 
 
 
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="center"> Studying in this moment: </h2>
 
 
-<div align="left"> 
+<div align="center"> 
 
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+ 
+<br><br><p align="center"><b>Visitors Count</b></b></p>  
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CC-UNIPE-MARLONRN}/count.svg" /></p> 
 <br>
 </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0bc8c7&height=120&section=footer"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-UNIPE-MARLONRN&layout=compact&hide_border=true&title_color=NaN96bc&text_color=ffffff&bg_color=0d111)

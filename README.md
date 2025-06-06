@@ -68,4 +68,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0bc8c7&height=120&section=footer"/>
-](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-UNIPE-MARLONRN&layout=compact&hide_border=true&title_color=NaN96bc&text_color=ffffff&bg_color=0d111)
